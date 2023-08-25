@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925769112842",
+    "project_id": "smoke-name-effect-fe625",
+    "storage_bucket": "smoke-name-effect-fe625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925769112842:android:5ec6658f84ebd5706e6ef3",
+        "android_client_info": {
+          "package_name": "com.example.smokenameeffectbajud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925769112842-2ob638dovdlsksvon47mlg7l8lkri46t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hVba8PBhyd1W6pDab6v3yT5jhhOC0F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925769112842-2ob638dovdlsksvon47mlg7l8lkri46t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
